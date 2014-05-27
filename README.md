@@ -7,6 +7,7 @@ This is a quick tool I put together that can be used if attempts to use **Delete
 1. Visual Studio 2012
 2. .NET Framework 4.5
 2. Outlook 2010
+3. Visual Studio Tools for Microsoft Office (VSTO)
 
 ## Deployment / Usage ##
 
